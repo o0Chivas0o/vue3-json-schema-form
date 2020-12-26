@@ -1427,7 +1427,7 @@
   resolved "https://registry.npm.taobao.org/@vue/babel-helper-vue-transform-on/download/@vue/babel-helper-vue-transform-on-1.0.0.tgz?cache=0&sync_timestamp=1608914176235&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fbabel-helper-vue-transform-on%2Fdownload%2F%40vue%2Fbabel-helper-vue-transform-on-1.0.0.tgz#8cbec6bbcae53626ad70139061be5e73403c9a62"
   integrity sha1-jL7Gu8rlNiatcBOQYb5ec0A8mmI=
 
-"@vue/babel-plugin-jsx@^1.0.0-0":
+"@vue/babel-plugin-jsx@^1.0.0", "@vue/babel-plugin-jsx@^1.0.0-0":
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/@vue/babel-plugin-jsx/download/@vue/babel-plugin-jsx-1.0.0.tgz?cache=0&sync_timestamp=1608914170593&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fbabel-plugin-jsx%2Fdownload%2F%40vue%2Fbabel-plugin-jsx-1.0.0.tgz#1dabe1cf8588d088226fd5666ff1987f2f11982d"
   integrity sha1-Havhz4WI0Igib9Vmb/GYfy8RmC0=
